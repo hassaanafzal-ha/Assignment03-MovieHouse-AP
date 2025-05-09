@@ -1,0 +1,27 @@
+.display{
+    /* background-color: violet; */
+    color:red;
+    font-size: larger;
+    text-align: center;
+} 
+.movies{
+    background-color: purple;
+    display:grid;
+    padding: 50px;
+    margin: 20px 20px;
+    color:yellow;
+    text-align: center;
+    border-radius: 50px;
+}
+.Button{
+    color:blueviolet;
+    background-color:red;
+    padding:10px 20px;
+    border-radius: 5px;
+}
+.logo
+{
+    color:red;
+    font-size:xx-large;
+    text-align: center;
+}
